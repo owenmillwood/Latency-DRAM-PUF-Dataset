@@ -1,6 +1,6 @@
 # Latency-DRAM-PUF-Dataset
 
-DRAM-Latency-PUF raw response and Grayscale image data from Commodity-Off-The-Shelf (COTS) DDR3 DRAM DIMMs under various environmental conditions.
+DRAM-Latency-PUF raw response and Grayscale image data from **five** Commodity-Off-The-Shelf (COTS) DDR3 DRAM DIMMs under various environmental conditions.
 
 Each measurement is categorised by the following:
 
