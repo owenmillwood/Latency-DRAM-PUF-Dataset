@@ -1,4 +1,6 @@
-# Latency-DRAM-PUF-Dataset
+# Latency-DRAM-PUF-Dataset (DEPRACATED - SEE LINK TO NEW LOCATION)
+
+#This dataset is now downloadable at: https://doi.org/10.15131/shef.data.26977528.v1
 
 DRAM-Latency-PUF raw response and Grayscale image data from **five** Commodity-Off-The-Shelf (COTS) DDR3 DRAM DIMMs under various environmental conditions.
 
